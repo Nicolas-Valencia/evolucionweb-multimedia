@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     if (button_javascript) {
         button_javascript.addEventListener('click', function() {
-            window.location.href = 'timelines/javascript.html';
+            window.location.href = 'timelines/Javascript.html';
         });
     }
 
